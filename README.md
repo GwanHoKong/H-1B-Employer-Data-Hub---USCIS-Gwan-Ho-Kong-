@@ -43,3 +43,29 @@ Key variables include:
 - Pandas  
 - Matplotlib  
 - Seaborn
+
+---
+
+# Example Visualizations
+
+### Top Industries by H-1B Approvals
+
+![Top Industries](top_industries.png)
+
+---
+
+### Top States by Total H-1B Cases
+
+![Top States](top_states.png)
+
+---
+
+### Top H-1B Sponsoring Companies
+
+![Top Employers](top_employers.png)
+
+---
+
+### H-1B Denial Rate by Petition Type
+
+![Denial Rates](denial_rates.png)
